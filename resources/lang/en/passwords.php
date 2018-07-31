@@ -18,7 +18,6 @@ return [
     'sent' => '重置密码邮件已成功发送!',
     'token' => 'This password reset token is invalid.',
     'user' => "没有找到对应的该邮箱信息",
-
 ];
 
 
