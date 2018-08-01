@@ -91,6 +91,7 @@
             @include('flash::message')
         </div>
         @yield('content')
+        @yield('footer')
     </main>
 </div>
 <script>

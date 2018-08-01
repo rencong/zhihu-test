@@ -149,6 +149,7 @@ return [
 
         Naux\Mail\SendCloudServiceProvider::class,
         \Laracasts\Flash\FlashServiceProvider::class,
+        \Overtrue\LaravelUEditor\UEditorServiceProvider::class,
         /*
          * Package Service Providers...
          */
